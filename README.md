@@ -10,8 +10,8 @@ The Frozen Lake problem is a reinforcement learning task in which an agent must 
 
 ## SARSA LEARNING ALGORITHM
 
-### Name: Thiyagarajan A
-### Register Number: 212222240110
+### Name: immanuvel stanley A
+### Register Number: 212222040056
 ```
 def sarsa(env,
           gamma=1.0,
